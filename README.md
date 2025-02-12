@@ -16,4 +16,9 @@
 - json-server kurulumu
 - 'localhost:3030/jobs' endpoint'ine istek at ve verileri store'a aktar
 - 'JobList.jsx' de store'a abone ol ve işleri listele
+
 # toolkitworkproject
+
+## Gif
+
+![Proje Demo](./docs/assets/gifs/demo.gif)

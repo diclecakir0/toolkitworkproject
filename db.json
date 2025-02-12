@@ -98,6 +98,24 @@
       "status": "Mülakat",
       "type": "Tam Zamanlı",
       "date": "12.02.2025"
+    },
+    {
+      "id": "28a06e7e-1bd0-4780-92b6-ff2f055517c7",
+      "position": "Frontend Developer",
+      "company": "Udemig",
+      "location": "Turkey",
+      "status": "Devam Ediyor",
+      "type": "Uzaktan",
+      "date": "12.02.2025"
+    },
+    {
+      "id": "2dbdaa8e-0ee2-45fe-869e-5a6d73500f5b",
+      "position": "Frontend Developer",
+      "company": "Udemig",
+      "location": "Turkey",
+      "status": "Mülakat",
+      "type": "Uzaktan",
+      "date": "12.02.2025"
     }
   ]
 }
