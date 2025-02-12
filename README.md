@@ -21,4 +21,4 @@
 
 ## Gif
 
-![Proje Demo](./assets/gifs/demo.gif)
+![Proje Demo](./assets/demo.gif)
